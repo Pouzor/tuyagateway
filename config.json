@@ -1,0 +1,14 @@
+{
+  "name": "tuyagateway",
+  "version": "1.1",
+  "slug": "tuyagateway",
+  "description": "tuyagateway",
+  "arch": ["amd64", "armv7", "aarch64", "amd64", "i386"],
+  "url": "website with more information about add-on (e.g., a forum thread for support)",
+  "startup": "application",
+  "boot": "auto",
+  "map": ["config:rw", "ssl"],
+  "options": {},
+  "schema": {},
+  "image": "Pouzor/tuyagateway"
+}
