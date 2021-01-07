@@ -4,7 +4,7 @@
   "slug": "tuyagateway",
   "description": "tuyagateway",
   "arch": ["amd64", "armv7", "aarch64", "amd64", "i386"],
-  "url": "website with more information about add-on (e.g., a forum thread for support)",
+  "url": "https://blabla.com/bla",
   "startup": "application",
   "boot": "auto",
   "map": ["config:rw", "ssl"],
